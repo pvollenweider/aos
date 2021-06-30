@@ -1,5 +1,5 @@
 # aos
-> A jahia implementatinon of the AOS (Animate on scroll) library https://github.com/michalsnik/aos
+> A Jahia implementation of the AOS (Animate on scroll) library https://github.com/michalsnik/aos
 
 ## Installation
 
